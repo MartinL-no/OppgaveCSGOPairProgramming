@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OppgaveCSGOPairProgramming", "OppgaveCSGOPairProgramming\OppgaveCSGOPairProgramming.csproj", "{DC7BB8EE-8BCD-4D04-86DB-A45E4F779806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7BB8EE-8BCD-4D04-86DB-A45E4F779806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7BB8EE-8BCD-4D04-86DB-A45E4F779806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7BB8EE-8BCD-4D04-86DB-A45E4F779806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7BB8EE-8BCD-4D04-86DB-A45E4F779806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F1C7A5-7B55-4B43-88EF-4FE5FAB1858C}
+	EndGlobalSection
+EndGlobal
